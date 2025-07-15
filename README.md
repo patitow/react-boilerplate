@@ -1,5 +1,5 @@
-<div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/react.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
+<div align="left" style="position: relative; z-index: 0;">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/react.svg" align="right" width="30%" style="margin: -20px 0 0 20px; z-index: 1;">
 <h1>REACT-BOILERPLATE</h1>
 <p align="left">
 	<em>A modern React boilerplate for fast and scalable web apps.</em>
